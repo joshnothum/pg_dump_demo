@@ -2,10 +2,6 @@
 
 Companion repo for ["pg_dump: the all-time saves leader"](https://medium.com/lifes-a-glitch/pg-dump-a-postgresql-hall-of-famer-f207bf2eb6ed)
 
-
-![Screenshot](https://raw.githubusercontent.com/digitalcraftsman/hugo-cactus-theme/dev/images/screenshot.png)
-
-
 ## Installation
 
 1. $ git clone https://github.com/joshnothum/pg_dump_demo.git
