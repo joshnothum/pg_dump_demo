@@ -1,4 +1,4 @@
-# Cactus Theme
+# pg_dump demo
 
 Companion repo for ["pg_dump: the all-time saves leader"](https://medium.com/lifes-a-glitch/pg-dump-a-postgresql-hall-of-famer-f207bf2eb6ed)
 
